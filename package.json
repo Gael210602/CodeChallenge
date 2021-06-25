@@ -7,9 +7,10 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node src/run.js"
   },
-  "author": "",
+  "author": "Gael Eduardo Perez Gomez",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^9.0.1"
